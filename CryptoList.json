@@ -1,0 +1,106 @@
+[{
+        "Ticker": "BTC-USD",
+        "Name": "Bitcoin USD"
+    },
+    {
+        "Ticker": "ETH-USD",
+        "Name": "Ethereum USD"
+    },
+    {
+        "Ticker": "BNB-USD",
+        "Name": "BinanceCoin USD"
+    },
+    {
+        "Ticker": "ADA-USD",
+        "Name": "Cardano USD"
+    },
+    {
+        "Ticker": "DOGE-USD",
+        "Name": "Dogecoin USD"
+    },
+    {
+        "Ticker": "USDT-USD",
+        "Name": "Tether USD"
+    },
+    {
+        "Ticker": "XRP-USD",
+        "Name": "XRP USD"
+    },
+    {
+        "Ticker": "DOT1-USD",
+        "Name": "Polkadot USD"
+    },
+    {
+        "Ticker": "BCH-USD",
+        "Name": "BitcoinCash USD"
+    },
+    {
+        "Ticker": "UNI3-USD",
+        "Name": "Uniswap USD"
+    },
+    {
+        "Ticker": "LTC-USD",
+        "Name": "Litecoin USD"
+    },
+    {
+        "Ticker": "LINK-USD",
+        "Name": "Chainlink USD"
+    },
+    {
+        "Ticker": "XLM-USD",
+        "Name": "Stellar USD"
+    },
+    {
+        "Ticker": "USDC-USD",
+        "Name": "USDCoin USD"
+    },
+    {
+        "Ticker": "SOL1-USD",
+        "Name": "Solana USD"
+    },
+    {
+        "Ticker": "VET-USD",
+        "Name": "VeChain USD"
+    },
+    {
+        "Ticker": "ETC-USD",
+        "Name": "EthereumClassic USD"
+    },
+    {
+        "Ticker": "MATIC-USD",
+        "Name": "MaticNetwork USD"
+    },
+    {
+        "Ticker": "HEX-USD",
+        "Name": "HEX USD"
+    },
+    {
+        "Ticker": "EOS-USD",
+        "Name": "EOS USD"
+    },
+    {
+        "Ticker": "THETA-USD",
+        "Name": "THETA USD"
+    },
+    {
+        "Ticker": "UNI3-USD",
+        "Name": "Uniswap USD"
+    },
+    {
+        "Ticker": "TRX-USD",
+        "Name": "TRON USD"
+    },
+    {
+        "Ticker": "FIL-USD",
+        "Name": "FilecoinFutures USD"
+    },
+    {
+        "Ticker": "XMR-USD",
+        "Name": "Monero USD"
+    },
+    {
+        "Ticker": "NEO-USD",
+        "Name": "NEO USD"
+    }
+
+]
